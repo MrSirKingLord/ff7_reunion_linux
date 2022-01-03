@@ -101,7 +101,7 @@ Registry > Import Registry File > ff7_steam.reg</br>
 #### 5. Add wine DLL override necessary for The Reunion to run, and play.
 `export WINEPREFIX="~/.local/share/wineprefixes/ff7"`</br>
 `export WINEDLLOVERRIDES="ddraw=n,b"`</br>
-`wine ~/.steam/steam/steamapps/common/FINAL FANTASY VII/ff7.exe`</br>
+`wine "~/.steam/steam/steamapps/common/FINAL FANTASY VII/ff7.exe"`</br>
 
 ## Playing
 
