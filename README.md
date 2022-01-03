@@ -5,7 +5,7 @@ These instructions are for the Steam version of FF7. Unfortunately, a legitimate
 If you have the original CDs, there is a video guide here: https://www.youtube.com/watch?v=3nlpvEVLR_s </br>
 The installer on the original CDs will give you the necessary registry entries, as will installing through Steam on Windows. I have exported the registry entries to .reg files here for your convenience. They are simple registry entries recording the existence of an installed program like any other, and are in no way malicious or illegal.
 
-## Prerequisites
+## Essentials
 
 winehq-stable or winehq-staging</br>
 winetricks</br>
