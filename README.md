@@ -1,7 +1,7 @@
 # Final Fantasy VII The Reunion Linux Install Guide
 
 ## Prerequisites
-	wine
+  wine
 	lutris (optional)
 	steam (optional)
 	protontricks (when running through steam)
