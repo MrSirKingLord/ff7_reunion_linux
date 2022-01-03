@@ -10,7 +10,7 @@
 ## Steam / Proton
   Install FF7 through Steam</br>
   Select proton version in steam</br>
-  Run game once through steam to create proton/wine prefix</br>
+  Run game once through steam to create proton/wine prefix (may not be necessary)</br>
 
   protontricks 39140 uninstaller</br>
   click 'install' and run The_Reunion_R06j.exe</br>
