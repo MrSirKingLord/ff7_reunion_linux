@@ -26,4 +26,5 @@
   https://community.pcgamingwiki.com/files/file/600-final-fantasy-vii-102-official-patch/</br>
   Make sure to set the DLL override, import the .reg, and run ff7.exe (NOT steam's ff7_en.exe)</br>
   
-## Wine
+## CLI / Wine
+  TBD
