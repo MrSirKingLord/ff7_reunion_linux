@@ -111,6 +111,6 @@ Registry > Import Registry File > ff7_steam.reg</br>
 
 ## Troubleshooting
 
-- Use winehq-stable or winehq-staging instead of wine from your distro
+- Use winehq-stable or winehq-staging instead of wine from your distro, or use wine-staging-tkg or proton-ge
 - Steam: delete the proton prefix at `~/.steam/steam/steamapps/compatdata/39140` and try again
 - Lutris/CLI: delete the wine prefix at `~/.local/share/wineprefixes/ff7` and try again
