@@ -1,0 +1,32 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\Software\Square Soft, Inc.]
+
+[HKEY_LOCAL_MACHINE\Software\Square Soft, Inc.\Final Fantasy VII]
+"DataDrive"=".\\"
+"AppPath"=".\\"
+"DataPath"=".\\Data\\"
+"MoviePath"=".\\Movies\\"
+"DiskNo"=dword:00000000
+"FullInstall"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\Software\Square Soft, Inc.\Final Fantasy VII\1.00]
+
+[HKEY_LOCAL_MACHINE\Software\Square Soft, Inc.\Final Fantasy VII\1.00\Graphics]
+"DD_GUID"=hex:
+"DriverPath"=""
+"Driver"=dword:ffffffff
+"Mode"=dword:ffffffff
+"Options"=dword:ffffffff
+
+[HKEY_LOCAL_MACHINE\Software\Square Soft, Inc.\Final Fantasy VII\1.00\MIDI]
+"MIDI_DeviceID"=dword:ffffffff
+"MIDI_data"="GENERAL_MIDI"
+"MusicVolume"=dword:00000064
+"Options"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\Software\Square Soft, Inc.\Final Fantasy VII\1.00\Sound]
+"Sound_GUID"=hex:
+"Options"=dword:00000000
+"SFXVolume"=dword:00000064
+
