@@ -15,6 +15,6 @@
   add steam ff7 launch options:		export WINEDLLOVERRIDES="ddraw=n,b"; %command%
   
 ## Lutris
-  To play through Lutris you need Final Fantasy VII 1.02 Official Patch
-  https://community.pcgamingwiki.com/files/file/600-final-fantasy-vii-102-official-patch/
-  Make sure to set the DLL override, import the .reg, and run ff7.exe (NOT steam's ff7_en.exe)
+  To play through Lutris you need Final Fantasy VII 1.02 Official Patch</br>
+  https://community.pcgamingwiki.com/files/file/600-final-fantasy-vii-102-official-patch/</br>
+  Make sure to set the DLL override, import the .reg, and run ff7.exe (NOT steam's ff7_en.exe)</br>
