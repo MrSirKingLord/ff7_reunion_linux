@@ -7,33 +7,46 @@ The installer on the original CDs will give you the necessary registry entries, 
 
 ## Prerequisites
 
-  wine</br>
-	winetricks</br>
-	lutris (optional)</br>
-	steam (optional)</br>
-	protontricks (steam only)</br>
+winehq-stable or winehq-staging</br>
+winetricks</br>
+lutris (optional)</br>
+steam (optional)</br>
+protontricks (steam only)</br>
+Final Fantasy VII 1.02 Official Patch (non-steam only)
+The Reunion
+	
+## Instructions
 
-## Steam / Proton
+### Steam / Proton
 
-  Install FF7 through Steam</br>
-  Select proton version in steam</br>
-  Run game once through steam to create proton/wine prefix</br>
+Install FF7 through Steam</br>
+Select proton version in steam</br>
+Run game once through steam to create proton/wine prefix</br>
 
-  protontricks 39140 uninstaller</br>
-  click 'install' and run The_Reunion_R06j.exe</br>
-  Install to steamapps/common/FINAL FANTASY VII</br>
+protontricks 39140 uninstaller</br>
+click 'install', browse to and run The_Reunion_R06j.exe</br>
+Install to steamapps/common/FINAL FANTASY VII</br>
 
-  protontricks 39140 regedit</br>
-  Registry > Import Registry File > ff7_steam.reg</br>
+protontricks 39140 regedit</br>
+Registry > Import Registry File > ff7_steam.reg</br>
 
-  add steam ff7 launch options:		export WINEDLLOVERRIDES="ddraw=n,b"; %command%
+add steam ff7 launch options: export WINEDLLOVERRIDES="ddraw=n,b"; %command%
   
-## Lutris / Wine
-
-  To play through Lutris you need Final Fantasy VII 1.02 Official Patch</br>
-  https://community.pcgamingwiki.com/files/file/600-final-fantasy-vii-102-official-patch/</br>
-  Make sure to set the DLL override, import the .reg, and run ff7.exe (NOT steam's ff7_en.exe)</br>
+### Lutris / Wine
+Install FF7 through Steam</br>
+Install Final Fantasy VII 1.02 Official Patch</br>
+Make sure to set the DLL override, import the .reg, and run ff7.exe (NOT steam's ff7_en.exe)</br>
   
-## CLI / Wine
+### CLI / Wine
+Install FF7 through Steam</br>
+Install Final Fantasy VII 1.02 Official Patch</br>
 
-  TBD
+wine uninstaller</br>
+click 'install', browse to and run The_Reunion_R06j.exe</br>
+Install to steamapps/common/FINAL FANTASY VII</br>
+
+wine regedit</br>
+Registry > Import Registry File > ff7_nonsteam.reg</br>
+
+export WINEDLLOVERRIDES="ddraw=n,b"</br>
+wine ff7.exe
