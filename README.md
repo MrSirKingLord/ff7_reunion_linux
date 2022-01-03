@@ -1,4 +1,4 @@
-# Final Fantasy VII The Reunion Linux Install Guide
+# Final Fantasy VII - The Reunion - Linux Install Guide
 
 ## Prerequisites
 
