@@ -1,2 +1,1 @@
-# ff7_reg
-Final Fantasy VII Registry Entries
+# Final Fantasy VII Reunion Wine Install Guide
