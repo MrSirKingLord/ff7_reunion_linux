@@ -12,8 +12,8 @@ winetricks</br>
 lutris (optional)</br>
 steam (optional)</br>
 protontricks (steam only)</br>
-Final Fantasy VII 1.02 Official Patch (non-steam only)
-The Reunion
+Final Fantasy VII 1.02 Official Patch (non-steam only)</br>
+The Reunion</br>
 	
 ## Instructions
 
@@ -49,4 +49,4 @@ wine regedit</br>
 Registry > Import Registry File > ff7_nonsteam.reg</br>
 
 export WINEDLLOVERRIDES="ddraw=n,b"</br>
-wine ff7.exe
+wine ff7.exe</br>
