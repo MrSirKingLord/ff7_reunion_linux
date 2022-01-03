@@ -9,9 +9,9 @@ The installer on the original CDs will give you the necessary registry entries, 
 
 winehq-stable or winehq-staging</br>
 winetricks</br>
+steam + proton</br>
+protontricks</br>
 lutris (optional)</br>
-steam (optional)</br>
-protontricks (steam only)</br>
 Final Fantasy VII 1.02 Official Patch (non-steam only)</br>
 The Reunion</br>
 	
