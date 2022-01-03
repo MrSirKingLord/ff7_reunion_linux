@@ -1,10 +1,11 @@
 # Final Fantasy VII The Reunion Linux Install Guide
 
 ## Prerequisites
-  wine
-	lutris (optional)
-	steam (optional)
-	protontricks (when running through steam)
+  wine</br>
+	winetricks</br>
+	lutris (optional)</br>
+	steam (optional)</br>
+	protontricks (steam only)</br>
 
 ## Steam / Proton
   Install FF7 through Steam</br>
