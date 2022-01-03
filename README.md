@@ -1,4 +1,4 @@
-# Final Fantasy VII Reunion Wine Install Guide
+# Final Fantasy VII The Reunion Linux Install Guide
 
 ## Steam
   Install FF7 through Steam</br>
