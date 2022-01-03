@@ -113,4 +113,6 @@ Registry > Import Registry File > ff7_steam.reg</br>
 
 - Use winehq-stable or winehq-staging instead of wine from your distro, or use wine-staging-tkg or proton-ge
 - Steam: delete the proton prefix at `~/.steam/steam/steamapps/compatdata/39140` and try again
+- Steam: add `PROTON_LOG=1` to your FF7 launch options and check your home dir for the log file
 - Lutris/CLI: delete the wine prefix at `~/.local/share/wineprefixes/ff7` and try again
+- Lutris: Right click FINAL FANTASY VII > Show logs
