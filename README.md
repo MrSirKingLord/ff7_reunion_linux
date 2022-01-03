@@ -12,8 +12,8 @@ winetricks</br>
 steam + proton</br>
 protontricks</br>
 lutris (optional)</br>
-Final Fantasy VII 1.02 Official Patch (non-steam only) https://community.pcgamingwiki.com/files/file/600-final-fantasy-vii-102-official-patch/ </br>
-The Reunion</br>
+[Final Fantasy VII 1.02 Official Patch](https://community.pcgamingwiki.com/files/file/600-final-fantasy-vii-102-official-patch/) (non-steam only)</br>
+[The Reunion](https://ff7.live/index.html)</br>
 	
 ## Instructions
 
