@@ -54,7 +54,7 @@ lutris (optional)</br>
 - Copy ff7.exe and FF7Config.exe to `~/.steam/steam/steamapps/common/FINAL FANTASY VII/`</br>
 
 #### 3. Add FF7 to Lutris with DLL override and registry entries
-
+- Make Wine Prefix Directory: `mkdir -p ~/.local/share/wineprefixes/ff7`</br>
 - Add a new game</br>
 - Game info</br>
 Name: FINAL FANTASY VII</br>
@@ -71,7 +71,6 @@ value: `n,b`</br>
 Registry > Import Registry File > ff7_steam.reg</br>
 
 #### 4. Install The Reunion with Lutris
-
 - FINAL FANTASY VII > Wine button > Run EXE inside Wine prefix</br>
 Browse to and run The_Reunion_R06j.exe (or newer version)</br>
 Browse and install to `Z:/home/user/.steam/steam/steamapps/common/FINAL FANTASY VII/`</br>
@@ -88,6 +87,7 @@ Browse and install to `Z:/home/user/.steam/steam/steamapps/common/FINAL FANTASY 
 - Copy ff7.exe and FF7Config.exe to `~/.steam/steam/steamapps/common/FINAL FANTASY VII/`</br>
 
 #### 3. Install the Reunion
+`mkdir -p ~/.local/share/wineprefixes/ff7`</br>
 `export WINEPREFIX="~/.local/share/wineprefixes/ff7"`</br>
 `wine uninstaller`</br>
 click 'install', browse to and run The_Reunion_R06j.exe</br>
